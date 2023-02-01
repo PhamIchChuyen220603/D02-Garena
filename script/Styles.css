@@ -1,0 +1,53 @@
+.frame1{
+    background-color:gray;
+    height: 500px;
+    width: 100%; 
+
+}
+
+#fromlogin{
+    width: 50%;
+    height: 400px;
+    background-color: white;
+    margin: 0 auto;
+}
+.frmacc1{
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+}
+.frmacc2{
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-right: 75px;
+}
+.Account{
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+    font-size: 15px;
+    color: white;
+}
+
+h2{
+    font-size: 50px;
+    margin: 0 auto;
+}
+
+.plug{
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+    font-size: 15px;
+    color: white;
+    background-color: red;
+    margin-top: 5px;
+    text-align: center;   
+}
+
+a{
+    float: right;
+}
+
