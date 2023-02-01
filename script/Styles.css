@@ -1,6 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
 .frame1{
     background-color:gray;
-    height: 500px;
+    height: 100vh;
     width: 100%; 
 
 }
@@ -12,23 +16,25 @@
     margin: 0 auto;
 }
 .frmacc1{
-    width: 300px;
+    width: 400px;
     height: 50px;
     margin: 0 auto;
+    /* background-color: green; */
 }
 .frmacc2{
-    width: 300px;
+    width: 400px;
     height: 50px;
     margin: 0 auto;
     margin-top: 100px;
-    margin-right: 75px;
+    margin-right: 135px;
+    /* background-color: aqua; */
 }
 .Account{
     width: 400px;
     height: 50px;
     margin: 0 auto;
     font-size: 15px;
-    color: white;
+    color: black;
 }
 
 h2{
